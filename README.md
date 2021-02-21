@@ -1,6 +1,6 @@
 # NLP Fine-Tuning
 
-    Organize fine-tuning results for different datasets and models by taks.
+    다양한 Dataset과 Model을 이용하여 fine-tuning한 결과를 task별로 정리합니다.
 
 ## 1. Classification
 
