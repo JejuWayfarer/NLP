@@ -19,7 +19,7 @@ Dataset : https://dacon.io/competitions/open/235597/data/
 |Dataset | Model | ROGUE-1 | ROGUE-2 | ROGUE-L | LR | Optizmier | batch size (# gpu) | Max_seq_Len|
 |---|---|---|---|---|---|---|---|---|
 |Dacon Abstract Summarization | KoBART | 0.430 | 0.273 | 0.320 | 3e-5 | Adafactor | 4(2) | 512
-|---- | KoBART | **0.517 | 0.386 | 0.463** | 1e-4 | Adafactor | 4(2) | 512|
+|---- | KoBART | **0.517** | **0.386** | **0.463** | 1e-4 | Adafactor | 4(2) | 512|
 |---- | KoBART | 0.505 | 0.371 | 0.449 | 1e-3 | Adafactor | 4(2) | 512|
 
 Dataset : https://dacon.io/competitions/official/235673/data/
